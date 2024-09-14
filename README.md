@@ -1,8 +1,6 @@
 ## Scientific Calculator in React.js
 Welcome to the Scientific Calculator built using React.js and Tailwind CSS. This project demonstrates the implementation of a fully functional scientific calculator, which supports basic arithmetic as well as advanced functions like square root, trigonometry, and logarithms.
 
-## 🚀 Demo
-[Live Demo Link]
 
 ## 🛠 Features
 Basic Arithmetic: Addition, subtraction, multiplication, division.
