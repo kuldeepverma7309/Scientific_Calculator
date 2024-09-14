@@ -1,4 +1,3 @@
-// src/components/Display.jsx
 import React from 'react';
 
 const Display = ({ input, history }) => {

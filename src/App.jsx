@@ -3,7 +3,7 @@ import Calculator from './components/Calculator';
 import useCalculator from './hooks/useCalculator';
 
 const App = () => {
-  const [history, calculate, setHistory] = useCalculator();  // Shared state and calculation logic
+  const [history, calculate, setHistory] = useCalculator();
 
   return (
     <div className="w-full min-h-screen flex flex-col bg-gray-800 justify-center items-center">
